@@ -4,7 +4,7 @@
 
 ## Intro
 
-I began this project, when my group startet splitting our documents into smaller Google Docs documents, to be combined into Word docx' once in a while. This was a huge mess, with inconsistent indenting and paragraphs included in the table of content, and I feel there's a much better way. So this article aims to help me in future projects, as well as others who might find similar issues.
+I began this project, when my group started splitting our documents into smaller Google Docs documents, to be combined into Word docx' once in a while. This was a huge mess, with inconsistent indenting and paragraphs included in the table of content, and I feel there's a much better way. So this article aims to help me in future projects, as well as others who might find similar issues.
 
 ### What is Plain Text
 
