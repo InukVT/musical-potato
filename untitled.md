@@ -34,7 +34,7 @@ The beforementioned This article itself is written entirely in Markdown and uses
 
 Typora is backed by [Pandoc](http://support.typora.io/Install-and-Use-Pandoc/), meaning you can do some truly powerfull stuff with it. By dipping down to [the terminal](https://tex.stackexchange.com/a/298385), you can even do advanced and beautiful referencing. I'll get into terminal stuff later, and this article should be good even without the terminal. 
 
-####LaTeX 
+#### LaTeX 
 
 I can only recommend going forward with LaTeX when comfortable with plaintext editing. LaTeX is much more powerful than Markdown, but also has a more complex syntax to do simple stuff.
 
